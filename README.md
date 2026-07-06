@@ -154,7 +154,8 @@ The Decision Tree Regressor achieved the best predictive performance and was sel
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
+<img width="487" height="271" alt="Screenshot 2026-07-06 154418" src="https://github.com/user-attachments/assets/9a9fccf5-a601-4df6-8c49-86698ad206ac" />
+
 
 Example:
 
