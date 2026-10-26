@@ -1,4 +1,4 @@
-# 📈 Retail Price Optimization & Price Elasticity Analysis
+# 📈pricepilot-retail-analytics
 
 ## 📌 Project Overview
 
